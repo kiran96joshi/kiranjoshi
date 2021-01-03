@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://kiranjoshi.herokuapp.com",
+    "contentApiKey": "c359589ecd0d8589f190655cdd"
+  },
+  "production": {
+    "apiUrl": "https://kiranjoshi.herokuapp.com",
+    "contentApiKey": "c359589ecd0d8589f190655cdd"
+  }
+}
