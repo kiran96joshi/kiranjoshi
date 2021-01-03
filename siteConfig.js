@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://kiranjoshi.herokuapp.com`,
+    siteUrl: `https://kiranjoshi.net`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
