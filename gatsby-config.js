@@ -103,14 +103,6 @@ module.exports = {
                 // Number of shown headline levels (optional, default: 2)
                 maxDepth: 2,
             },
-        },
-        {
-            resolve: `gatsby-theme-ghost-commento`,
-            options: {
-                // The url pointing to your self-hosted commento installation
-                // You can remove the option, if you use the commento.io managed service
-                url: `https://kiranjoshiblog.herokuapp.com/js/commento.js`,
-            },
         },    
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // This plugin is currently causing issues: https://github.com/gatsbyjs/gatsby/issues/25360
