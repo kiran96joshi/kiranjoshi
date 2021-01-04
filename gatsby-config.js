@@ -97,6 +97,13 @@ module.exports = {
                 ],
             },
         },
+        {
+            resolve: `gatsby-theme-ghost-toc`,
+            options: {
+                // Number of shown headline levels (optional, default: 2)
+                maxDepth: 2,
+            },
+        },    
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // This plugin is currently causing issues: https://github.com/gatsbyjs/gatsby/issues/25360
         //`gatsby-plugin-offline`,

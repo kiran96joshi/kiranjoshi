@@ -6900,6 +6900,13 @@ gatsby-theme-ghost-members@^1.5.5:
     "@babel/runtime" "^7.12.5"
     styled-components "^5.2.1"
 
+gatsby-theme-ghost-toc@^1.5.5:
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-ghost-toc/-/gatsby-theme-ghost-toc-1.5.5.tgz#668f2872d5bb8831c5aa29aa8e1b59ac2c3d328d"
+  integrity sha512-EJkthwGqhezNQ6kljN7OAG2j4dROj9ZQoe+Oopmo/wgYhsY6MX3EG122rmW1nsU22rurGa1HHYX2kUveiDzPmA==
+  dependencies:
+    "@babel/runtime" "^7.12.5"
+
 gatsby-theme-try-ghost@^1.50.4:
   version "1.50.4"
   resolved "https://registry.yarnpkg.com/gatsby-theme-try-ghost/-/gatsby-theme-try-ghost-1.50.4.tgz#4ef9f9ae59fa5d7e14f5723762cd77a529dd4d98"
