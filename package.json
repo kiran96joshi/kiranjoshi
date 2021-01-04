@@ -34,7 +34,6 @@
     "gatsby-plugin-preact": "^4.2.0",
     "gatsby-rehype-ghost-links": "^1.6.5",
     "gatsby-rehype-prismjs": "^1.2.5",
-    "gatsby-theme-ghost-contact": "^1.9.9",
     "gatsby-theme-ghost-dark-mode": "^1.8.5",
     "gatsby-theme-ghost-members": "^1.5.5",
     "gatsby-theme-try-ghost": "^1.50.4",

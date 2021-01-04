@@ -102,30 +102,3 @@ module.exports = {
         //`gatsby-plugin-offline`,
     ],
 }
-// In your gatsby-config.js
-plugins: [
-    {
-        resolve: `gatsby-theme-ghost-contact`,
-        options: {
-            siteMetadata: {
-                // This will be added to your navigation menu
-                navigation: [{ label: `Contact` }],
-            },
- 
-            },
-            // Customize your page content here
-            pageContext: {
-                title: `Contact`,
-                path: `/contact/`,
-                custom_excerpt: `Just drop us a line!`,
-                feature_image: `https://static.gotsby.org/v1/assets/images/gatsby-ghost-contact.png`,
-                // Can be disabled by providing an empty list []
-                form_topics: [`Feedback`, `Question`],
-                meta_title: `Contact`,
-                meta_description: `A contact form page.`,
-                // All content below the contact form
-                html: ``,
-            },
-        },
-    },
-]
