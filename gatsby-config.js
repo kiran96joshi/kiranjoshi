@@ -126,6 +126,5 @@ plugins: [
                 // All content below the contact form
                 html: ``,
             },
-        },
     },
 ]
